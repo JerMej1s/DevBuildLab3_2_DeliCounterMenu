@@ -1,0 +1,13 @@
+C:\DevBuild\Week03\Lab3_2_DeliCounterMenu\bin\Debug\netcoreapp3.1\Lab3_2_DeliCounterMenu.exe
+C:\DevBuild\Week03\Lab3_2_DeliCounterMenu\bin\Debug\netcoreapp3.1\Lab3_2_DeliCounterMenu.deps.json
+C:\DevBuild\Week03\Lab3_2_DeliCounterMenu\bin\Debug\netcoreapp3.1\Lab3_2_DeliCounterMenu.runtimeconfig.json
+C:\DevBuild\Week03\Lab3_2_DeliCounterMenu\bin\Debug\netcoreapp3.1\Lab3_2_DeliCounterMenu.runtimeconfig.dev.json
+C:\DevBuild\Week03\Lab3_2_DeliCounterMenu\bin\Debug\netcoreapp3.1\Lab3_2_DeliCounterMenu.dll
+C:\DevBuild\Week03\Lab3_2_DeliCounterMenu\bin\Debug\netcoreapp3.1\Lab3_2_DeliCounterMenu.pdb
+C:\DevBuild\Week03\Lab3_2_DeliCounterMenu\obj\Debug\netcoreapp3.1\Lab3_2_DeliCounterMenu.AssemblyInfoInputs.cache
+C:\DevBuild\Week03\Lab3_2_DeliCounterMenu\obj\Debug\netcoreapp3.1\Lab3_2_DeliCounterMenu.AssemblyInfo.cs
+C:\DevBuild\Week03\Lab3_2_DeliCounterMenu\obj\Debug\netcoreapp3.1\Lab3_2_DeliCounterMenu.csproj.CoreCompileInputs.cache
+C:\DevBuild\Week03\Lab3_2_DeliCounterMenu\obj\Debug\netcoreapp3.1\Lab3_2_DeliCounterMenu.dll
+C:\DevBuild\Week03\Lab3_2_DeliCounterMenu\obj\Debug\netcoreapp3.1\Lab3_2_DeliCounterMenu.pdb
+C:\DevBuild\Week03\Lab3_2_DeliCounterMenu\obj\Debug\netcoreapp3.1\Lab3_2_DeliCounterMenu.genruntimeconfig.cache
+C:\DevBuild\Week03\Lab3_2_DeliCounterMenu\obj\Debug\netcoreapp3.1\Lab3_2_DeliCounterMenu.csproj.AssemblyReference.cache
